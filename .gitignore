@@ -63,3 +63,15 @@ cscope.*
 /onenand_ipl/onenand-ipl*
 /onenand_ipl/board/*/onenand*
 /onenand_ipl/board/*/*.S
+
+DUMMY
+board/ti/ti8148/config.tmp
+tools/env/crc32.c
+tools/env/fw_printenv
+tools/mkimage-arm
+u-boot.min.nand
+u-boot.min.sd
+u-boot.min.uart
+u-boot.nand.bin
+u-boot.sd.bin
+
